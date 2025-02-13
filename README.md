@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @moxarth
 - 👀 I’m interested in Html, CSS , java script , Node Js, Mongo DB , Python, data visualization with Power BI , Game testing , E-sports , and more pc and Console Games to Play&test  
 - 🌱 I’m currently learning Node Js , Mongo DB ....
-- 📫  Email: moxarthpatel2410@gmail.com
+- 📝 Know me better by clicking on - https://moxarth2410.github.io/Moxarth/
+- 📫 Email: moxarthpatel2410@gmail.com
 - 😄 Pronouns: m oh k sh uh r th<br>
 [m	sounds like the		'm'	in 'me']<br>
 [oh	sounds like the		'o'	in 'so']<br>
